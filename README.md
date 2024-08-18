@@ -1,9 +1,11 @@
 <h1>Hi, I'm Andre! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Group Software Projects:</h2>
+## 👨‍💻 Group Software Projects:
 
-- <b>Magnus Discord Bot</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- **[Magnus Discord Bot](https://github.com/andrykinash/Magnus-Discord-Music-Bot)**
+
+  Led a 3-member project and developed Magnus, a Discord music and helper bot, using Node.js and Discord.js with an extended number of features and commands related to APIs.
+
 - <b>Senior Design</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
