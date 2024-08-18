@@ -6,8 +6,10 @@
 
   Led a 3-member project and developed Magnus, a Discord music and helper bot, using Node.js and Discord.js with an extended number of features and commands related to APIs.
 
-- <b>Senior Design</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Senior Design Project</b>
+
+  Senior design large-scale 4-member project written in C++ using Visual Studio, consisting of thousands of lines of code, a user-friendly interface, and complex mathematical algorithms for generation, triangulation, and runtime efficiency calculation.
+  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
