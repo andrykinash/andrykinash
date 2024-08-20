@@ -25,6 +25,7 @@
 <h2>👨‍💻 Independent Projects:</h2>
 
 - <b>Data Analytics / Machine Learning with Python </b>
+  - [Crab Age Prediction Using Regression Models](https://github.com/andrykinash/CrabAge-Regression-Prediction-Model)
   - [Advanced Email Spam Detection Using Naive Bayes](https://github.com/andrykinash/Advanced-Email-Spam-Detection-Using-Naive-Bayes)
 
 <h2>📺 Popular YouTube Videos</h2>
