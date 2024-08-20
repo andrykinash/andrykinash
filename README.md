@@ -27,6 +27,7 @@
 - <b>Data Analytics / Machine Learning with Python </b>
   - [Crab Age Prediction Using Regression Models](https://github.com/andrykinash/CrabAge-Regression-Prediction-Model)
   - [Advanced Email Spam Detection Using Naive Bayes](https://github.com/andrykinash/Advanced-Email-Spam-Detection-Using-Naive-Bayes)
+  - [Semiconductor Sensors PCA Dimensionality Reduction](https://github.com/andrykinash/SECOM-Dataset-Dimensionality-Reduction-with-PCA)
 
 <h2>📺 Popular YouTube Videos</h2>
 
