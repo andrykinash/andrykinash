@@ -25,7 +25,7 @@
 <h2>👨‍💻 Independent Projects:</h2>
 
 - <b>Data Analytics / Machine Learning with Python </b>
-  - [Advanced Email Spam Detection Using Naive Bayes](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Advanced Email Spam Detection Using Naive Bayes](https://github.com/andrykinash/Advanced-Email-Spam-Detection-Using-Naive-Bayes)
 
 <h2>📺 Popular YouTube Videos</h2>
 
