@@ -25,10 +25,10 @@
 <h2>👨‍💻 Independent Projects:</h2>
 
 - <b>Data Analytics / Machine Learning with Python </b>
-  - [Advanced Anomaly Detection Using Independent and Multivariable Gaussian Analysis](https://github.com/andrykinash/Advanced-Anomaly-Detection-Gaussian-Analysis)
   - [Crab Age Prediction Using Regression Models](https://github.com/andrykinash/CrabAge-Regression-Prediction-Model)
   - [Advanced Email Spam Detection Using Naive Bayes](https://github.com/andrykinash/Advanced-Email-Spam-Detection-Using-Naive-Bayes)
   - [Semiconductor Sensors PCA Dimensionality Reduction](https://github.com/andrykinash/SECOM-Dataset-Dimensionality-Reduction-with-PCA)
+  - [Advanced Anomaly Detection Using Independent and Multivariable Gaussian Analysis](https://github.com/andrykinash/Advanced-Anomaly-Detection-Gaussian-Analysis)
 
 
 <h2>📺 Popular YouTube Videos</h2>
