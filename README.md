@@ -8,7 +8,7 @@
 
 - **[Magnus Discord Bot](https://github.com/andrykinash/Magnus-Discord-Music-Bot)**
 
-  Led a 3-member project and developed Magnus, a Discord music and helper bot, written in javascript, using Node.js and Discord.js with an extended number of features and commands related to APIs.
+  Led a 3-member project and developed Magnus, a Discord music and helper bot, written in JavaScript, using Node.js and Discord.js with an extended number of features and commands related to APIs.
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
