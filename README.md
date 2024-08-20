@@ -24,8 +24,8 @@
 
 <h2>👨‍💻 Independent Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Analytics / Machine Learning with Python </b>
+  - [Advanced Email Spam Detection Using Naive Bayes](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
