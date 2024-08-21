@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andre!, an <a href="https://www.linkedin.com/in/andrykinash/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Andre!</h1>
 
 ## 👨‍💻 Group Software Projects:
 
