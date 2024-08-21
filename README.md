@@ -30,6 +30,10 @@
   - [Semiconductor Sensors PCA Dimensionality Reduction](https://github.com/andrykinash/SECOM-Dataset-Dimensionality-Reduction-with-PCA)
   - [Advanced Anomaly Detection Using Independent and Multivariable Gaussian Analysis](https://github.com/andrykinash/Advanced-Anomaly-Detection-Gaussian-Analysis)
 
+- <b>Android Studios Mobile App Development </b>
+  - [Contact Management With SQLite Database](https://github.com/andrykinash/Android-Studios-Contant-Management-App)
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
