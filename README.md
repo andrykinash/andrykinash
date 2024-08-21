@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andre! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Andre!, an <a href="https://www.linkedin.com/in/andrykinash/">IT Professional</a>☺</h1>
 
 ## 👨‍💻 Group Software Projects:
 
